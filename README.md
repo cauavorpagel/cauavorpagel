@@ -1,7 +1,7 @@
 <div align = "center">
  
 # Just trying to be a nice person. 
-18 years old guy, brazilian and gaúcho.
+18 years guy, brazilian and gaúcho.
  
 <a href="https://github.com/cauavorpagel">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauavorpagel&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
